@@ -10,3 +10,4 @@ Personal Projects:
 1. COVID-19 Project (SQL)
 2. Housing Prices Project (SQL)
 3. Web Scraping of Clinical Trials (Selenium in Python)
+4. Pivot Tables and Dashboarding (Excel)
